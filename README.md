@@ -34,8 +34,4 @@ OpenCV
 NumPy / Pandas / Matplotlib / Seaborn
 Jupyter Notebook
 
-Paper:
-
-You can find the full research paper in the repo:
-
-Gaitpaper.docx
+Paper:Gaitpaper.docx
