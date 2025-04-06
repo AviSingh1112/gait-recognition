@@ -20,3 +20,20 @@ Dataset: CASIA-B
 - Views: 11 camera angles
 - Conditions: Normal walking, with a bag, with a coat
 - Frames: Silhouette sequence images
+
+Results
+Precision: 0.9997 
+Recall: 1.00 
+F1score: 0.9998 
+AUC ROC: 1.00 
+
+Tech Stack
+Python
+TensorFlow / Keras
+OpenCV
+NumPy / Pandas / Matplotlib / Seaborn
+Jupyter Notebook
+
+Paper
+You can find the full research paper in the repo:
+Gaitpaper.docx
