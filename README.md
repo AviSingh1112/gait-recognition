@@ -1,5 +1,5 @@
-“This repository is a fork of salonidembla/gait-recognition
-, developed collaboratively with the original author.”
+This repository is a fork of salonidembla/gait-recognition
+, developed collaboratively with the original author.
 
 
 Gait Recognition using CASIA-B Dataset
