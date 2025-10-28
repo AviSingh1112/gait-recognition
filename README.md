@@ -1,3 +1,7 @@
+“This repository is a fork of salonidembla/gait-recognition
+, developed collaboratively with the original author.”
+
+
 Gait Recognition using CASIA-B Dataset
 
 This project presents a deep learning-based approach for human gait recognition using the CASIA-B dataset. The implementation involves preprocessing silhouette images, performing exploratory data analysis (EDA), and building a robust model inspired by the GaitSet architecture for accurate identity recognition based on walking patterns.
